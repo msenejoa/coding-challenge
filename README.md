@@ -7,4 +7,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
 
-<img src="/screencapture.png" width="600">
+<img src="/screencapture.png" width="800">
